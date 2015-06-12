@@ -3,6 +3,10 @@ asdText
 
 Show your text with random colors
 
+Demo
+===
+http://naoxink.hol.es/asdText/
+
 Use
 ===
 
