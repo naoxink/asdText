@@ -5,7 +5,7 @@ Show your text with random colors
 
 Demo
 ===
-http://naoxink.hol.es/asdText/
+http://naoxink.ga/asdText/
 
 Use
 ===
